@@ -1,6 +1,6 @@
 # Flare.css
 
-## Appsbroker Sass Framework
+## Appsbroker Sass/JS Framework
 
 ### Components roadmap
 
@@ -9,6 +9,8 @@
 * Responsive navigation
 * Inputs
 * Search
+* Notifications (error/success)
+* Tabs
 * Autocomplete/filtering
 * Login/password toggling forms
 * Google Maps API default drop-in
@@ -18,6 +20,7 @@
 * Checkbox buttons
 * Select menus
 * `.alpha`, `.beta` etc `h1-h5` heading defaults
+* Each API has callbacks for Angular/other integration
 
 ### Folder Structure
 ```
