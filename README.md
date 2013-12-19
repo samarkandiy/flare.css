@@ -8,6 +8,11 @@
 * Navigation
 * Responsive navigation
 * Inputs
+* Search
+* Autocomplete/filtering
+* Login/password toggling forms
+* Google Maps API default drop-in
+* Font awesome integration
 * Tables for data
 * Radio buttons
 * Checkbox buttons
